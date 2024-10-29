@@ -89,3 +89,6 @@ Measures:
 
 <img width="958" alt="Data cleaning 4" src="https://github.com/user-attachments/assets/00800679-66d5-4ed2-983b-156af0b18e16">
 
+<img width="589" alt="hr measures" src="https://github.com/user-attachments/assets/c90fdf9e-ad3d-4fe1-bb90-aa9befea53fe">
+
+<img width="565" alt="visualization dashboard " src="https://github.com/user-attachments/assets/5aa4fc0a-a2eb-4f77-8a3a-3b804dac2af1">
