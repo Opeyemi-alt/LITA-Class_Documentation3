@@ -50,6 +50,7 @@ Measures:
 3. Data modeling
 
 ### Class Activities:
+---
 
 1. Sales analysis dashboard
 2. Customer segmentation report
@@ -57,6 +58,7 @@ Measures:
 4. Regional sales performance
 
 ### Learning Outcomes:
+---
 
 1. Efficient data transformation and merging
 2. Effective use of expression functions
@@ -65,16 +67,19 @@ Measures:
 5. Measure development for data analysis
 
 ### Tools and Software:
+---
 
 - Power BI Desktop
-- Power BI Service
 - Excel
 
 ### Deliverables:
+---
 
 1. Completed exercise files
 2. Power BI reports and dashboards
 3. Written reflections on learning outcomes
+
+### Data Visualization
 
 
 
