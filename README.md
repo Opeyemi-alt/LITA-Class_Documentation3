@@ -52,10 +52,11 @@ Measures:
 ### Class Activities:
 ---
 
-1. Sales analysis dashboard
-2. Customer segmentation report
-3. Product inventory management
-4. Regional sales performance
+1. Text Cleaning
+2. Sales analysis dashboard
+3. Customer segmentation report
+4. Product inventory management
+5. Regional sales performance
 
 ### Learning Outcomes:
 ---
@@ -81,8 +82,10 @@ Measures:
 
 ### Data Visualization
 
+<img width="960" alt="Data Cleaning 2 Assignment" src="https://github.com/user-attachments/assets/fb75d587-26fb-43d9-bc61-3dc6edad5e0d">
 
 
-   
+<img width="960" alt="Data Cleaning 3" src="https://github.com/user-attachments/assets/6d11ba40-4d47-437e-ae33-82e1bcd2c588">
 
+<img width="958" alt="Data cleaning 4" src="https://github.com/user-attachments/assets/00800679-66d5-4ed2-983b-156af0b18e16">
 
